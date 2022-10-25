@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node mail_server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.8.0",
+    "smtp-server": "^3.11.0"
+  }
+}
